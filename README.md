@@ -4,7 +4,8 @@
 This project looks at the analysis of a dataset of a dataset consisting of  Gross sales, COGS and profit data sorted by market segment and country region. **This dataset was gotten from KEGGLE**.
 ### SKILLS DEMONSTRATED
 - Data Cleaning
-- Making use of some advance excel function
+- Use of some advance excel function
+- Use of some Excel tools
 - Excel pivot table
 - Data visualization
 #### PROJECT OBJECTIVE
