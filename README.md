@@ -1,7 +1,7 @@
 # My_First_Excel_Project
 
 ## INTRODUCTION
-This project looks at the analysis of a dataset of a dataset consisting of  Gross sales, COGS and profit data sorted by market segment and country region. *The dataset was gotten from KEGGLE*.
+This project looks at the analysis of a dataset of a dataset consisting of  Gross sales, COGS and profit data sorted by market segment and country region. **This dataset was gotten from KEGGLE**.
 ### SKILLS DEMONSTRATED
 - Data Cleaning
 - Making use of some advance excel function
@@ -28,7 +28,7 @@ Since there is a DATE column I had to delete the other MONTH NUMBER, MONTH NAME,
 
 The dataset now consist of the SEGMENT, COUNTRY, PRODUCT, DISCOUNT BAND, UNITS SOLD, MANUFACTURING PRICE, SALE PRICE, DISCOUNTS, GROSS SALES, COGS, PROFIT, and DATE column.
 
-I used the **SUMIFS** and **AVERAGEIFS** function to calculate the sum and average cost of the product "Paseo" in "Canada".
+I used the **SUMIFS** and **AVERAGEIFS** function to calculate the sum and average cost of the product **Paseo** in **Canada**.
 
 Using the **Ctrl+T** shortcut key i was able to create a table for the dataset. The advantage of creating a table is that it helps create a column header and filter, make the dataset virtually appealing, for easy sorting and aggregation and lastly, tables work well with Excel's data visualization tools, like pivot tables and pivot charts which allow one to analyze and present data more effectively.
 
@@ -62,14 +62,14 @@ Using different visualization chart I was able to create a dashboard for this an
 
 **INSIGHTS**
 
-* The product "Paseo" have the largest Gross sales and profit while the product "Carretere' has the lowest sales.
-* United State Of America have the highest sum of Gross sales compare to the remaining four countries.
-* The 'Goverment' segment has the highest sum of units sold compare to the 'Small business' which have the lowest.
+* The product **Paseo** have the largest Gross sales and profit, while the product **Carretere** has the lowest sales.
+* The **United State Of America** have the highest sum of Gross sales compare to the remaining four countries.
+* The **Goverment** segment has the highest sum of units sold compare to the **Small business** which have the lowest.
 
 **RECOMMENDATIONS**
   
-* Strategy used in the product "Paseo" for each year should also be implemented for the product "Montana" so that more profit can be generated.
-* There should be more sales of "Paseo" and also more sales should be done in Canada because that's where more profit is been generated.
+* Capitalize on **Paseo** as it is evident that it have the hihest profit and gross sales generation. It would be beneficial to analyze the factors that contributed to the success and replicate those stategies to the other products.
+* There should be more sales of **Paseo** and also more sales should be done in **Canada** because that's where more profit is been generated.
 
 
 
