@@ -18,20 +18,19 @@ This project looks at the analysis of a dataset of a dataset consisting of  Gros
 
 So after opening the dataset, it was looking like this at first;
 
-Then I checked if there were any duplicate in the dataset by clicking on all the cells and clicking on the the DUPLICATE button on the ribbon.
+Then I checked if there were any duplicate in the dataset by clicking on all the cells and clicking on the the DUPLICATE button on the ribbon. After i discovered there were no duplicate.
 
-The data set was without any duplicate, so I proceeded with the analysis.
-The 'COGS', PROFIT and GROSS SALES column have some cells containing the '$' and ',' signs in the values. So I used the 'Ctrl+H' shortcut key which opens the 'find and replace' tool to eliminate them by replacing those signs with a NULL value.
+The 'COGS', PROFIT and GROSS SALES column have some cells containing the '$' and ',' signs in the values. So I used the **Ctrl+H** shortcut key which opens the 'find and replace' tool to eliminate them by replacing those signs with a NULL value.
 
 Since there is a DATE column I had to delete the other MONTH NUMBER, MONTH NAME, and YEAR column to reduce the number of column in the dataset because they were containing the same month number, month name, and year with the DATE column.
 
 **ANALYSIS**
 
-The dataset is now consist of the SEGMENT, COUNTRY, PRODUCT, DISCOUNT BAND, UNITS SOLD, MANUFACTURING PRICE, SALE PRICE, DISCOUNTS, GROSS SALES, COGS, PROFIT, and DATE columns.
+The dataset now consist of the SEGMENT, COUNTRY, PRODUCT, DISCOUNT BAND, UNITS SOLD, MANUFACTURING PRICE, SALE PRICE, DISCOUNTS, GROSS SALES, COGS, PROFIT, and DATE column.
 
 I used the **SUMIFS** and **AVERAGEIFS** function to calculate the sum and average cost of the product "Paseo" in "Canada".
 
-Using the 'Ctrl+T' shortcut key i was able to create a table for the dataset. The advantage of creating a table is that it helps create a column header and filter, make the dataset virtually appealing, for easy sorting and aggregation and lastly, tables work well with Excel's data visualization tools, like pivot tables and pivot charts which allow one to analyze and present data more effectively.
+Using the **Ctrl+T** shortcut key i was able to create a table for the dataset. The advantage of creating a table is that it helps create a column header and filter, make the dataset virtually appealing, for easy sorting and aggregation and lastly, tables work well with Excel's data visualization tools, like pivot tables and pivot charts which allow one to analyze and present data more effectively.
 
 **PIVOT TABLE**
 
@@ -63,9 +62,9 @@ Using different visualization chart I was able to create a dashboard for this an
 
 **INSIGHTS**
 
-* The product "Paseo" have the largest sales and profit while..... has the lowest sales
-* Canada have the highest sales while... has the lowest
-* The..... segment has the highest while.... has the lowest
+* The product "Paseo" have the largest Gross sales and profit while the product "Carretere' has the lowest sales.
+* United State Of America have the highest sum of Gross sales compare to the remaining four countries.
+* The 'Goverment' segment has the highest sum of units sold compare to the 'Small business' which have the lowest.
 
 **RECOMMENDATIONS**
   
