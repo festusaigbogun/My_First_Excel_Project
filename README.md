@@ -20,9 +20,14 @@ This project looks at the analysis of a dataset of a dataset consisting of  Gros
 So after opening the dataset, it was looking like this at first;
 ![](https://github.com/festusaigbogun/My_First_Excel_Project/blob/main/Images/EXCEL_iF0TgYaGt9.png)
 
+
 Then I checked if there were any duplicate in the dataset by clicking on all the cells and clicking on the the DUPLICATE button on the ribbon. After i discovered there were no duplicate.
 
+![](https://github.com/festusaigbogun/My_First_Excel_Project/blob/main/Images/dNxJVEddA0%20(2).png)
+
+
 The 'COGS', PROFIT and GROSS SALES column have some cells containing the '$' and ',' signs in the values. So I used the **Ctrl+H** shortcut key which opens the 'find and replace' tool to eliminate them by replacing those signs with a NULL value.
+
 
 Since there is a DATE column I had to delete the other MONTH NUMBER, MONTH NAME, and YEAR column to reduce the number of column in the dataset because they were containing the same month number, month name, and year with the DATE column.
 
