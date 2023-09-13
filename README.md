@@ -18,6 +18,7 @@ This project looks at the analysis of a dataset of a dataset consisting of  Gros
 **DATA CLEANING**
 
 So after opening the dataset, it was looking like this at first;
+![](https://github.com/festusaigbogun/My_First_Excel_Project/blob/main/Images/EXCEL_iF0TgYaGt9.png)
 
 Then I checked if there were any duplicate in the dataset by clicking on all the cells and clicking on the the DUPLICATE button on the ribbon. After i discovered there were no duplicate.
 
