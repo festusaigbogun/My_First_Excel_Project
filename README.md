@@ -71,7 +71,7 @@ It is important to analyze for the sum of COGS  by product. The results is shown
 
 ![](https://github.com/festusaigbogun/My_First_Excel_Project/blob/main/Images/EXCEL_v950OurQTN~3.png) 
 
-**SEGMENT BY SOME OF UNITS SOLD**
+**SEGMENT BY UNITS SOLD**
 
 It is important to analyze for the sum of units sold  by segment. The results is shown in the pivot table and chart below:
 
