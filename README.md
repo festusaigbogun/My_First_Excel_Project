@@ -67,6 +67,9 @@ It is important to analyze for the sum of Gross sales by country. The results is
 **PRODUCT BY SUM OF COGS**
 
 It is important to analyze for the sum of COGS  by product. The results is shown in the pivot table and chart below:
+![](EXCEL_dAXqiWu4x1~2.png) 
+
+![](https://github.com/festusaigbogun/My_First_Excel_Project/blob/main/Images/EXCEL_v950OurQTN~3.png) 
 
 **SEGMENT BY SOME OF UNITS SOLD**
 
