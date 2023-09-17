@@ -53,6 +53,9 @@ The next step was creating a pivot table from the dataset to achieve my objectiv
 **KPI's**
 
 Using pivot table I was able to get the Key Performance Indicator for this analysis
+![](https://github.com/festusaigbogun/My_First_Excel_Project/blob/main/Images/EXCEL_4XMwo9jErn~2.png) 
+
+![](https://github.com/festusaigbogun/My_First_Excel_Project/blob/main/Images/EXCEL_70O5BxgmBh~4.png) 
 
 **COUNTRY BY SUM OF GROSS SALES**
 
