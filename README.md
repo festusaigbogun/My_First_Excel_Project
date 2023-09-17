@@ -48,6 +48,7 @@ Using the **Ctrl+T** shortcut key i was able to create a table for the dataset. 
 **PIVOT TABLE**
 
 The next step was creating a pivot table from the dataset to achieve my objectives
+![](https://github.com/festusaigbogun/My_First_Excel_Project/blob/main/Images/EXCEL_Cnxx755S6A.png) 
 
 **KPI's**
 
