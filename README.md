@@ -36,6 +36,7 @@ Since there is a DATE column I had to delete the other MONTH NUMBER, MONTH NAME,
 **ANALYSIS**
 
 The dataset now consist of the SEGMENT, COUNTRY, PRODUCT, DISCOUNT BAND, UNITS SOLD, MANUFACTURING PRICE, SALE PRICE, DISCOUNTS, GROSS SALES, COGS, PROFIT, and DATE column.
+![](https://github.com/festusaigbogun/My_First_Excel_Project/blob/main/Images/EXCEL_eXlUJgw7dP.png)
 
 I used the **SUMIFS** and **AVERAGEIFS** function to calculate the sum and average cost of the product **Paseo** in **Canada**.
 
