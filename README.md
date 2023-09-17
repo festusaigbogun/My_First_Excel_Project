@@ -40,6 +40,7 @@ The dataset now consist of the SEGMENT, COUNTRY, PRODUCT, DISCOUNT BAND, UNITS S
 
 I used the **SUMIFS** and **AVERAGEIFS** function to calculate the sum and average cost of the product **Paseo** in **Canada**.
 ![](https://github.com/festusaigbogun/My_First_Excel_Project/blob/main/Images/EXCEL_s5cKwVL1wv.png)
+![](https://github.com/festusaigbogun/My_First_Excel_Project/blob/main/Images/EXCEL_JjohoKpUpF%20(2).png)
 
 Using the **Ctrl+T** shortcut key i was able to create a table for the dataset. The advantage of creating a table is that it helps create a column header and filter, make the dataset virtually appealing, for easy sorting and aggregation and lastly, tables work well with Excel's data visualization tools, like pivot tables and pivot charts which allow one to analyze and present data more effectively.
 
