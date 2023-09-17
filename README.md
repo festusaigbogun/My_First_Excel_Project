@@ -60,6 +60,9 @@ Using pivot table I was able to get the Key Performance Indicator for this analy
 **COUNTRY BY SUM OF GROSS SALES**
 
 It is important to analyze for the sum of Gross sales by country. The results is shown in the pivot table and chart below:
+![](https://github.com/festusaigbogun/My_First_Excel_Project/blob/main/Images/EXCEL_9HhoAjZN3Z~2.png) 
+
+![](https://github.com/festusaigbogun/My_First_Excel_Project/blob/main/Images/EXCEL_v950OurQTN~2.png) 
 
 **PRODUCT BY SUM OF COGS**
 
