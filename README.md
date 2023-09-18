@@ -82,6 +82,9 @@ It is important to analyze for the sum of units sold  by segment. The results is
 **PROFIT OF PRODUCTS IN EACH YEAR**
 
 Lastly, the profit of products in each year was also analyze using pivot table and the chart below:
+![](https://github.com/festusaigbogun/My_First_Excel_Project/blob/main/Images/EXCEL_dAXqiWu4x1~3.png) 
+
+![](https://github.com/festusaigbogun/My_First_Excel_Project/blob/main/Images/EXCEL_v950OurQTN~4.png) 
 
 **DATA VISUALIZATION**
 
