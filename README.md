@@ -28,7 +28,9 @@ Then I checked if there were any duplicate in the dataset by clicking on all the
 
 The 'COGS', PROFIT and GROSS SALES column have some cells containing the '$' and ',' signs in the values. So I used the **Ctrl+H** shortcut key which opens the 'find and replace' tool to eliminate them by replacing those signs with a NULL value.
 
-![](https://github.com/festusaigbogun/My_First_Excel_Project/blob/main/Images/EXCEL_eIRPzKlxnJ%20(2).png)  ![](https://github.com/festusaigbogun/My_First_Excel_Project/blob/main/Images/EXCEL_JjohoKpUpF%20(2).png)
+![](https://github.com/festusaigbogun/My_First_Excel_Project/blob/main/Images/EXCEL_eIRPzKlxnJ%20(2).png)
+
+![](https://github.com/festusaigbogun/My_First_Excel_Project/blob/main/Images/EXCEL_JjohoKpUpF%20(2).png)
 
 
 Since there is a DATE column I had to delete the other MONTH NUMBER, MONTH NAME, and YEAR column to reduce the number of column in the dataset because they were containing the same month number, month name, and year with the DATE column.
