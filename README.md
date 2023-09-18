@@ -89,6 +89,7 @@ Lastly, the profit of products in each year was also analyze using pivot table a
 **DATA VISUALIZATION**
 
 Using different visualization chart I was able to create a dashboard for this analysis
+![](https://github.com/festusaigbogun/My_First_Excel_Project/blob/main/Images/EXCEL_v950OurQTN~5.png) 
 
 **INSIGHTS**
 
