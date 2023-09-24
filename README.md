@@ -26,7 +26,7 @@ Then I checked if there were any duplicate in the dataset by clicking on all the
 ![](https://github.com/festusaigbogun/My_First_Excel_Project/blob/main/Images/dNxJVEddA0%20(2).png)
 
 
-The 'COGS', PROFIT and GROSS SALES column have some cells containing the '$' and ',' signs in the values. So I used the **Ctrl+H** shortcut key which opens the 'find and replace' tool to eliminate them by replacing those signs with a NULL value.
+Some cells in the 'COGS,' 'PROFIT,' and 'GROSS SALES' columns include '$' and ',' symbols within their values. To remove these symbols, I utilized the Ctrl+H shortcut, which opens the 'find and replace' tool, replacing these symbols with NULL values.
 
 ![](https://github.com/festusaigbogun/My_First_Excel_Project/blob/main/Images/EXCEL_eIRPzKlxnJ%20(2).png)
   ![](https://github.com/festusaigbogun/My_First_Excel_Project/blob/main/Images/EXCEL_JjohoKpUpF%20(2).png)
