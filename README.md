@@ -101,9 +101,40 @@ Using different visualization chart I was able to create a dashboard for this an
 * The **Goverment** segment has the highest sum of units sold compare to the **Small business** which have the lowest.
 
 ### RECOMMENDATIONS
-  
-* Capitalize on **Paseo** as it is evident that it have the hihest profit and gross sales generation. It would be beneficial to analyze the factors that contributed to the success and replicate those stategies to the other products.
-* There should be more sales of **Paseo** and also more sales should be done in **Canada** because that's where more profit is been generated.
+Based on the insights from the dataset, here are some business recommendations:
 
+1. **Maximize Product Paseo**:
+   - Given that Paseo has the largest gross sales and profits, consider expanding its product line or running promotions to further boost sales and profits.
+   - Focus on marketing strategies that highlight the value and benefits of Paseo to attract more customers.
 
+2. **Reevaluate Product Carretere**:
+   - Since Carretere has the lowest sales, assess its performance and consider whether to optimize its marketing, pricing, or even potentially discontinue it if it's not profitable.
+
+3. **Leverage the U.S. Market**:
+   - As the United States has the highest sum of gross sales, allocate more resources and marketing efforts to this market.
+   - Tailor your products and marketing campaigns to cater to the specific preferences and needs of U.S. customers.
+
+4. **Government Segment Focus**:
+   - Given that the Government segment has the highest sum of units sold, consider tailoring your products or services to better serve the needs of this segment.
+   - Strengthen relationships with government clients and explore opportunities for long-term contracts or partnerships.
+
+5. **Small Business Segment Growth**:
+   - While the Government segment performs well, don't neglect the Small Business segment.
+   - Develop targeted marketing strategies to attract and retain small business customers, potentially offering volume discounts or customized solutions.
+
+6. **Market Diversification**:
+   - Consider expanding into new markets or countries to reduce reliance on the U.S. market and tap into additional sources of revenue.
+   - Perform market research to identify promising regions for expansion.
+
+7. **Competitor Analysis**:
+   - Analyze competitors in the market to understand their strategies and identify opportunities for differentiation and competitive advantages.
+
+8. **Supply Chain Optimization**:
+   - Ensure your supply chain is efficient to meet the demands of the high-performing products and segments.
+
+9. **Continuous Data Monitoring**:
+   - Continuously monitor sales data to stay responsive to changing trends and customer preferences.
+
+10. **Customer Feedback**:
+    - Gather feedback from customers in various segments to improve your product offerings and customer experience.
 
