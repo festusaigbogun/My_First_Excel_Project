@@ -39,7 +39,7 @@ Given the presence of a DATE column, I opted to remove redundant columns such as
 The dataset now consist of the SEGMENT, COUNTRY, PRODUCT, DISCOUNT BAND, UNITS SOLD, MANUFACTURING PRICE, SALE PRICE, DISCOUNTS, GROSS SALES, COGS, PROFIT, and DATE column.
 ![](https://github.com/festusaigbogun/My_First_Excel_Project/blob/main/Images/EXCEL_eXlUJgw7dP.png)
 
-I used the **SUMIFS** and **AVERAGEIFS** function to calculate the sum and average cost of the product **Paseo** in **Canada**.
+I employed the **SUMIFS** and **AVERAGEIFS** functions to derive the total and mean expenses for the product Paseo in the Canadian context.
 ![](https://github.com/festusaigbogun/My_First_Excel_Project/blob/main/Images/EXCEL_KciyWeNODX~2.png)
 
 ![](https://github.com/festusaigbogun/My_First_Excel_Project/blob/main/Images/EXCEL_JjohoKpUpF.png)
