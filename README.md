@@ -8,14 +8,14 @@ This project looks at the analysis of a dataset of a dataset consisting of  Gros
 - Use of some Excel tools
 - Excel pivot table
 - Data visualization
-#### PROJECT OBJECTIVE
+### PROJECT OBJECTIVE
 - Check for the different KPI's
 - Analyze the different countries by sum of Gross sales
 - Analyze the different Products by  sum of COGS
 - Analyze the different Segments by sum of units sold
 - Analyze the  profit of products in each year
 
-**DATA CLEANING**
+### DATA CLEANING
 
 So after opening the dataset, it was looking like this at first;
 ![](https://github.com/festusaigbogun/My_First_Excel_Project/blob/main/Images/EXCEL_iF0TgYaGt9.png)
@@ -34,7 +34,7 @@ The 'COGS', PROFIT and GROSS SALES column have some cells containing the '$' and
 
 Since there is a DATE column I had to delete the other MONTH NUMBER, MONTH NAME, and YEAR column to reduce the number of column in the dataset because they were containing the same month number, month name, and year with the DATE column.
 
-**ANALYSIS**
+### ANALYSIS
 
 The dataset now consist of the SEGMENT, COUNTRY, PRODUCT, DISCOUNT BAND, UNITS SOLD, MANUFACTURING PRICE, SALE PRICE, DISCOUNTS, GROSS SALES, COGS, PROFIT, and DATE column.
 ![](https://github.com/festusaigbogun/My_First_Excel_Project/blob/main/Images/EXCEL_eXlUJgw7dP.png)
@@ -48,7 +48,7 @@ I used the **SUMIFS** and **AVERAGEIFS** function to calculate the sum and avera
 
 Using the **Ctrl+T** shortcut key i was able to create a table for the dataset. The advantage of creating a table is that it helps create a column header and filter, make the dataset virtually appealing, for easy sorting and aggregation and lastly, tables work well with Excel's data visualization tools, like pivot tables and pivot charts which allow one to analyze and present data more effectively.
 
-**PIVOT TABLE**
+### PIVOT TABLE
 
 The next step was creating a pivot table from the dataset to achieve my objectives
 ![](https://github.com/festusaigbogun/My_First_Excel_Project/blob/main/Images/EXCEL_Cnxx755S6A.png) 
@@ -89,18 +89,18 @@ Lastly, the profit of products in each year was also analyze using pivot table a
 
 ![](https://github.com/festusaigbogun/My_First_Excel_Project/blob/main/Images/EXCEL_v950OurQTN~4.png) 
 
-**DATA VISUALIZATION**
+### DATA VISUALIZATION
 
 Using different visualization chart I was able to create a dashboard for this analysis
 ![](https://github.com/festusaigbogun/My_First_Excel_Project/blob/main/Images/EXCEL_v950OurQTN~5.png) 
 
-**INSIGHTS**
+### INSIGHTS
 
 * The product **Paseo** have the largest Gross sales and profit, while the product **Carretere** has the lowest sales.
 * The **United State Of America** have the highest sum of Gross sales compare to the remaining four countries.
 * The **Goverment** segment has the highest sum of units sold compare to the **Small business** which have the lowest.
 
-**RECOMMENDATIONS**
+### RECOMMENDATIONS
   
 * Capitalize on **Paseo** as it is evident that it have the hihest profit and gross sales generation. It would be beneficial to analyze the factors that contributed to the success and replicate those stategies to the other products.
 * There should be more sales of **Paseo** and also more sales should be done in **Canada** because that's where more profit is been generated.
