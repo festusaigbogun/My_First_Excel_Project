@@ -1,7 +1,7 @@
 # My_First_Excel_Project
 
 ## INTRODUCTION
-This project looks at the analysis of a dataset of a dataset consisting of  Gross sales, COGS and profit data sorted by market segment and country region. **This dataset was gotten from KEGGLE**.
+This project involves analyzing a dataset comprising gross sales, COGS, and profit data, organized by market segment and country region. **This dataset was gotten from KAGGLE**.
 ### SKILLS DEMONSTRATED
 - Data Cleaning
 - Use of some advance excel function
