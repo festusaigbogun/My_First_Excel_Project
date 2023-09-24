@@ -32,7 +32,7 @@ Some cells in the 'COGS,' 'PROFIT,' and 'GROSS SALES' columns include '$' and ',
   ![](https://github.com/festusaigbogun/My_First_Excel_Project/blob/main/Images/EXCEL_JjohoKpUpF%20(2).png)
 
 
-Since there is a DATE column I had to delete the other MONTH NUMBER, MONTH NAME, and YEAR column to reduce the number of column in the dataset because they were containing the same month number, month name, and year with the DATE column.
+Given the presence of a DATE column, I opted to remove redundant columns such as MONTH NUMBER, MONTH NAME, and YEAR, as they duplicated the information already available in the DATE column. This streamlined the dataset by reducing the number of columns.
 
 ### ANALYSIS
 
